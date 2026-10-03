@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Rajvardhan Ghorpade 👋
 
-<!--
-**code-with-Rajvardhan/code-with-Rajvardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer | BE Graduate
+📍 Pune, India | Student
 
-Here are some ideas to get you started:
+#### 🧑‍💻 About Me
+- 🔭 Currently learning: Full Stack Development
+- 💻 Frontend: HTML, CSS, JavaScript, React.js
+- ⚙️ Backend: Java, Spring Boot, C, C++
+- 🗄️ Database: SQL, MongoDB & DSA
+- 🎯 Goal: Become a Job-Ready Full Stack Developer in 5 Months
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+`React.js` `Java` `Spring Boot` `JavaScript` `C++` `SQL` `MongoDB` `Git`
+
+#### 📌 Projects
+Building real-world projects... Stay tuned 👇
+
+#### 📫 Connect
+- GitHub: @code-with-Rajvardhan## Hi there 👋
+
+
